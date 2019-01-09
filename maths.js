@@ -6,7 +6,7 @@ export const multiplicar = (a, b) => {
   return a * b
 } 
 
-export const restart = (a, b) => {
+export const restar = (a, b) => {
   return a - b
 }
 
